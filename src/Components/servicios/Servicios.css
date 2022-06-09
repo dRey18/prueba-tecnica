@@ -1,0 +1,21 @@
+
+
+.servicios-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 1rem;
+    color: #fff;
+    width: 100%;
+    height: 100vh;
+}
+
+.servicio-desc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon-dato {
+  height: 40vmin;
+  pointer-events: none;
+}

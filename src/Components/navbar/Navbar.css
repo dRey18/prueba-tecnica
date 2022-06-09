@@ -1,0 +1,40 @@
+.nav {
+    background-color: #0f65d6;
+    min-height: 100vh;
+    width: 100%;
+    height: 100%;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    width: 100%;
+    height: 80px;
+    font-size: 20px;
+}   
+
+.logo-nav {
+    padding: 1rem;
+}
+
+.navbar-logo {
+    height: 80px;
+    line-height: 80px;
+    padding: 20rem;
+    cursor: pointer;
+}
+
+.navbar-container h2 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.navbar-container span{
+    text-align: center;
+    font-size: 45px;
+    color: red;
+}
+
+
